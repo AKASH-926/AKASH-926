@@ -11,7 +11,7 @@ Some of the technologies I am proficient in include:
 🌱Express
 🌱MongoDB
 
-I am constantly 👀 looking to learn and improve my skills, and I welcome the opportunity to 💞️ collaborate 💞️ with other developers on new and exciting projects.
+I am constantly 👀 looking to learn and improve my skills, and I welcome the opportunity to collaborate with other developers on new and exciting projects.
 
 Thank you for visiting my profile. Feel free to reach out to me if you have any questions or would like to work together!
 
