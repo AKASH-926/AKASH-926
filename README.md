@@ -4,12 +4,12 @@
 </p>
 
 <!-- Profile Image -->
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/112334273?s=400&u=fad397760b52352fc28c6b4a2aecee50e751e2b7&v=4" 
-     width="150" 
+<div align="center" style="border-radius: 50%; border: 1px solid #ddd; padding: 2px;">
+<img src="https://img.freepik.com/free-photo/programmer-night_23-2151948231.jpg?ga=GA1.1.2000313406.1748365581&semt=ais_items_boosted&w=740" 
+     width="400" 
      alt="Akash AP Avatar" 
      style="border-radius: 50%; border: 1px solid #ddd; padding: 2px;">
-</p>
+</div>
 
 ---
 
