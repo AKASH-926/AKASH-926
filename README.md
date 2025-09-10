@@ -2,15 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+A+P!;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js+Enthusiast;Clean+UI+fanatic+%F0%9F%8E%A8;WebRTC+and+Socket.IO+Wizard+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-<!-- Profile Image -->
-<div align="center" style="border-radius: 50%; border: 1px solid #ddd; padding: 2px;">
-<img src="https://img.freepik.com/free-photo/programmer-night_23-2151948231.jpg?ga=GA1.1.2000313406.1748365581&semt=ais_items_boosted&w=740" 
-     width="400" 
-     alt="Akash AP Avatar" 
-     style="border-radius: 50%; border: 1px solid #ddd; padding: 2px;">
-</div>
-
 ---
 
 ## 👨‍💻 About Me
