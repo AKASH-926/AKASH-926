@@ -31,21 +31,6 @@ Whether it’s crafting custom components or taming real-time sockets, I’m you
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKASH-926&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-926&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-926&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 🌐 Portfolio: [akash-portfolio-website.onrender.com](https://akash-portfolio-website.onrender.com)  
@@ -53,7 +38,4 @@ Whether it’s crafting custom components or taming real-time sockets, I’m you
 - ✉️ Email: akash.arthanur26@gmail.com  
 
 ---
-
-> *"The best way to predict the future is to invent it." – Alan Kay*
-
 Let's build something amazing together 💥
